@@ -1,5 +1,5 @@
 ---
-Title: 'Elements'
+Title: 'HTML Elements Cheatsheet'
 Description: 'An HTML element is a piece of content in an HTML document. It is everything from the opening tag to the closing tag.'
 Subjects:
   - 'Web Development'
